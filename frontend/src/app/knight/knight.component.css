@@ -1,0 +1,8 @@
+span {
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 40px;
+}
+.dragging {
+  opacity: 0.25;
+}
